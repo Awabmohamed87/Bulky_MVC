@@ -1,0 +1,15 @@
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.deps.json
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.runtimeconfig.json
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.dll
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\Bulky.Utilities\obj\Debug\net8.0\refint\Bulky.Utility.dll
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.genruntimeconfig.cache
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\Bulky.Utilities\obj\Debug\net8.0\ref\Bulky.Utility.dll

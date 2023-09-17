@@ -13,6 +13,90 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\product\\1136dd2a-316e-4180-84fa-fe95088e69cd.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1136dd2a-316e-4180-84fa-fe95088e69cd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\product\\41ba8176-a85b-40cc-80de-d7605bff3526.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\41ba8176-a85b-40cc-80de-d7605bff3526.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\product\\90c79de3-9bcf-4a0f-a8cc-431388006a9a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\90c79de3-9bcf-4a0f-a8cc-431388006a9a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\product\\972b4a0a-613e-4187-bd8d-c57ef9f4392c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\972b4a0a-613e-4187-bd8d-c57ef9f4392c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\product\\b3e121ee-f705-4c0c-822a-6239256f7995.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b3e121ee-f705-4c0c-822a-6239256f7995.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\product\\e1596061-9fcc-4e39-b97a-f19f0beaff39.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e1596061-9fcc-4e39-b97a-f19f0beaff39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\product\\e8064fd8-4d6d-4715-8450-061cb6ea9c15.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e8064fd8-4d6d-4715-8450-061cb6ea9c15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-1\\0f09982d-d0b7-4571-9ada-1267ad925470.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\0f09982d-d0b7-4571-9ada-1267ad925470.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-1\\3cc41d0b-70cc-4203-a5e2-ff90aa05fc79.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\3cc41d0b-70cc-4203-a5e2-ff90aa05fc79.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-2\\35a155bd-4d84-4926-936b-bc1c0cff2017.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\35a155bd-4d84-4926-936b-bc1c0cff2017.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-2\\6c2133da-211f-4ef1-90a9-dd1cf3b66f38.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\6c2133da-211f-4ef1-90a9-dd1cf3b66f38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-3\\1f36fa1f-7f9a-4b4f-84d2-eafbf69a6220.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\1f36fa1f-7f9a-4b4f-84d2-eafbf69a6220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-3\\748b27d9-9802-42f6-adab-8df55aaf4342.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\748b27d9-9802-42f6-adab-8df55aaf4342.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-4\\6b702e26-aa2b-47b1-bab3-f885486939e3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\6b702e26-aa2b-47b1-bab3-f885486939e3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-4\\8be61614-113a-4dd5-a2ff-d1eb70e16f0b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\8be61614-113a-4dd5-a2ff-d1eb70e16f0b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-5\\1cbca164-761a-4c55-9459-82d6f2c9e0c1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\1cbca164-761a-4c55-9459-82d6f2c9e0c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-5\\7f0d6e2a-1a34-4c44-9596-0893338718bf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\7f0d6e2a-1a34-4c44-9596-0893338718bf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-6\\3772c79c-f3dd-4f33-ba5a-e4bb6e198375.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\3772c79c-f3dd-4f33-ba5a-e4bb6e198375.jpg"
+    },
+    {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-6\\52814dff-4844-44a5-8e73-95b0e9c22c50.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\52814dff-4844-44a5-8e73-95b0e9c22c50.jpg"
+    },
+    {
       "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
