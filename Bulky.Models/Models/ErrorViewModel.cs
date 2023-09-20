@@ -1,4 +1,4 @@
-namespace WebApplication1.Models
+namespace Bulky.Models
 {
     public class ErrorViewModel
     {
