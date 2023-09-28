@@ -10,7 +10,6 @@
     <WebStackScaffolding_IsLayoutPageSelected>True</WebStackScaffolding_IsLayoutPageSelected>
     <WebStackScaffolding_IsPartialViewSelected>False</WebStackScaffolding_IsPartialViewSelected>
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>False</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
-    <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>WebApplication1.Data.ApplicationDBContext</WebStackScaffolding_DbContextTypeFullName>
     <_SelectedScaffolderID>IdentityScaffolder</_SelectedScaffolderID>
     <_SelectedScaffolderCategoryPath>root/Identity</_SelectedScaffolderCategoryPath>
