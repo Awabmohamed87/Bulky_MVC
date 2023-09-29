@@ -10,6 +10,7 @@
         "dependencies": {
           "Bulky.DataAccess": "1.0.0",
           "Bulky.Models": "1.0.0",
+          "Bulky.Utility": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.0-rc.1.23421.29",
           "Microsoft.AspNetCore.Identity.UI": "8.0.0-rc.1.23421.29",
           "Microsoft.EntityFrameworkCore": "8.0.0-rc.1.23419.6",
@@ -3049,6 +3050,17 @@
         "runtime": {
           "Bulky.Models.dll": {}
         }
+      },
+      "Bulky.Utility/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.0-rc.1.23421.29",
+          "Microsoft.EntityFrameworkCore": "8.0.0-rc.1.23419.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0-rc.1.23419.6",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.0-rc.1.23461.3"
+        },
+        "runtime": {
+          "Bulky.Utility.dll": {}
+        }
       }
     }
   },
@@ -4982,6 +4994,11 @@
       "sha512": ""
     },
     "Bulky.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bulky.Utility/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
