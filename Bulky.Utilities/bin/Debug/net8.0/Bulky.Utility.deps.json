@@ -2547,31 +2547,10 @@
           "System.Text.Encoding": "4.3.0"
         }
       },
-      "System.Text.Encodings.Web/8.0.0-rc.1.23419.4": {
-        "runtime": {
-          "lib/net8.0/System.Text.Encodings.Web.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.23.41904"
-          }
-        },
-        "runtimeTargets": {
-          "runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll": {
-            "rid": "browser",
-            "assetType": "runtime",
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.23.41904"
-          }
-        }
-      },
+      "System.Text.Encodings.Web/8.0.0-rc.1.23419.4": {},
       "System.Text.Json/8.0.0-rc.1.23419.4": {
         "dependencies": {
           "System.Text.Encodings.Web": "8.0.0-rc.1.23419.4"
-        },
-        "runtime": {
-          "lib/net8.0/System.Text.Json.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.23.41904"
-          }
         }
       },
       "System.Text.RegularExpressions/4.3.0": {

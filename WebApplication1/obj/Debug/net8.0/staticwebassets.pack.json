@@ -145,6 +145,10 @@
       "PackagePath": "staticwebassets\\images\\products\\product-6\\52814dff-4844-44a5-8e73-95b0e9c22c50.jpg"
     },
     {
+      "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\js\\Company.js",
+      "PackagePath": "staticwebassets\\js\\Company.js"
+    },
+    {
       "Id": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "T84brxtw8Vr1fRfWFViloiMgO/K/k0fyf12WDeQChv0uFefp7XimMUPwBPz8kQpCjmck1XAnJLbW+Q8jUWXIfg==",
+  "dgSpecHash": "GkR043NnAj2fgtovVYIw/+9Y7N9iHKjQD76Xk9uqtA0x4eeLdhspOYk0Pm00NGCBItmxi7gnYieCREmpoKstHw==",
   "success": true,
   "projectFilePath": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
@@ -190,6 +190,7 @@
     "C:\\Users\\awabm\\.nuget\\packages\\sqlitepclraw.core\\2.1.6-pre20230809203314\\sqlitepclraw.core.2.1.6-pre20230809203314.nupkg.sha512",
     "C:\\Users\\awabm\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6-pre20230809203314\\sqlitepclraw.lib.e_sqlite3.2.1.6-pre20230809203314.nupkg.sha512",
     "C:\\Users\\awabm\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6-pre20230809203314\\sqlitepclraw.provider.e_sqlite3.2.1.6-pre20230809203314.nupkg.sha512",
+    "C:\\Users\\awabm\\.nuget\\packages\\stripe.net\\42.8.0-beta.1\\stripe.net.42.8.0-beta.1.nupkg.sha512",
     "C:\\Users\\awabm\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\awabm\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\awabm\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",

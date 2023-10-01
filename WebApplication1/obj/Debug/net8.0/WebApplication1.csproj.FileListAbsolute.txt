@@ -501,18 +501,6 @@ C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\obj\De
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
-C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\System.Text.Json.dll
-C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Bulky.DataAccess.dll
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Bulky.Models.dll
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Bulky.DataAccess.pdb
@@ -526,7 +514,6 @@ C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\De
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\SQLitePCLRaw.core.dll
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
@@ -552,3 +539,4 @@ C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\De
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Bulky.Utility.dll
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Stripe.net.dll

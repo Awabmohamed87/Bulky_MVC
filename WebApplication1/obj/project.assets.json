@@ -3229,6 +3229,23 @@
           "lib/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll": {}
         }
       },
+      "Stripe.net/42.8.0-beta.1": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "System.Configuration.ConfigurationManager": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Stripe.net.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Stripe.net.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -9210,6 +9227,29 @@
         "sqlitepclraw.provider.e_sqlite3.nuspec"
       ]
     },
+    "Stripe.net/42.8.0-beta.1": {
+      "sha512": "uQYRHRgrn8ET+AMngactXN2igfNEvosvZB5FBDwUMOnAXHGxh2J8fhABr6J2yQZx+pb93fh7CjhjH1udE4lUvg==",
+      "type": "package",
+      "path": "stripe.net/42.8.0-beta.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "icon.png",
+        "lib/net461/Stripe.net.dll",
+        "lib/net461/Stripe.net.xml",
+        "lib/net5.0/Stripe.net.dll",
+        "lib/net5.0/Stripe.net.xml",
+        "lib/net6.0/Stripe.net.dll",
+        "lib/net6.0/Stripe.net.xml",
+        "lib/netcoreapp3.1/Stripe.net.dll",
+        "lib/netcoreapp3.1/Stripe.net.xml",
+        "lib/netstandard2.0/Stripe.net.dll",
+        "lib/netstandard2.0/Stripe.net.xml",
+        "stripe.net.42.8.0-beta.1.nupkg.sha512",
+        "stripe.net.nuspec"
+      ]
+    },
     "System.AppContext/4.3.0": {
       "sha512": "fKC+rmaLfeIzUhagxY17Q9siv/sPrjjKcfNg1Ic8IlQkZLipo8ljcaZQu4VtI4Jqbzjc2VTjzGLF6WmsRXAEgA==",
       "type": "package",
@@ -13406,7 +13446,8 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0-rc.1.23419.6",
       "Microsoft.EntityFrameworkCore.Sqlite >= 8.0.0-rc.1.23419.6",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.0-rc.1.23419.6",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.0-rc.1.23461.3"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.0-rc.1.23461.3",
+      "Stripe.net >= 42.8.0-beta.1"
     ]
   },
   "packageFolders": {
@@ -13452,9 +13493,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -13490,6 +13528,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[8.0.0-rc.1.23461.3, )"
+          },
+          "Stripe.net": {
+            "target": "Package",
+            "version": "[42.8.0-beta.1, )"
           }
         },
         "imports": [
@@ -13511,7 +13553,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.7.23376.3\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
