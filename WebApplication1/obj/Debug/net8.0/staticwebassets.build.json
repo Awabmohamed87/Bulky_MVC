@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B4GhplXgGdrGjF+FxqbA/IsaDPGiYUgKv//Md7WSILw=",
+  "Hash": "1Qy2v/zwqcJgrBUx/Ov8TVaS9PNBzYs6AT/qYn7X+L0=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -1632,12 +1632,12 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\f19481b3-c51f-4c7d-a4bd-ab116cdcadeb.jpg"
     },
     {
-      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-1\\0f09982d-d0b7-4571-9ada-1267ad925470.jpg",
+      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\Product-1\\1580920c-efdc-4d65-9192-e18590ad1703.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/products/product-1/0f09982d-d0b7-4571-9ada-1267ad925470.jpg",
+      "RelativePath": "images/products/Product-1/1580920c-efdc-4d65-9192-e18590ad1703.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1648,15 +1648,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-1\\0f09982d-d0b7-4571-9ada-1267ad925470.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Product-1\\1580920c-efdc-4d65-9192-e18590ad1703.jpg"
     },
     {
-      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-1\\3cc41d0b-70cc-4203-a5e2-ff90aa05fc79.jpg",
+      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\Product-1\\83f25ff5-f40c-4766-941f-2cb84b3f7e11.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/products/product-1/3cc41d0b-70cc-4203-a5e2-ff90aa05fc79.jpg",
+      "RelativePath": "images/products/Product-1/83f25ff5-f40c-4766-941f-2cb84b3f7e11.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1667,15 +1667,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-1\\3cc41d0b-70cc-4203-a5e2-ff90aa05fc79.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Product-1\\83f25ff5-f40c-4766-941f-2cb84b3f7e11.jpg"
     },
     {
-      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-2\\35a155bd-4d84-4926-936b-bc1c0cff2017.jpg",
+      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\Product-13\\02502a23-eb07-4579-a93f-5c0d02cff5c7.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/products/product-2/35a155bd-4d84-4926-936b-bc1c0cff2017.jpg",
+      "RelativePath": "images/products/Product-13/02502a23-eb07-4579-a93f-5c0d02cff5c7.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1686,15 +1686,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-2\\35a155bd-4d84-4926-936b-bc1c0cff2017.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Product-13\\02502a23-eb07-4579-a93f-5c0d02cff5c7.jpg"
     },
     {
-      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-2\\6c2133da-211f-4ef1-90a9-dd1cf3b66f38.jpg",
+      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\Product-13\\8ef24c18-62d9-401a-90d9-fc6ec484f75e.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/products/product-2/6c2133da-211f-4ef1-90a9-dd1cf3b66f38.jpg",
+      "RelativePath": "images/products/Product-13/8ef24c18-62d9-401a-90d9-fc6ec484f75e.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1705,15 +1705,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-2\\6c2133da-211f-4ef1-90a9-dd1cf3b66f38.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Product-13\\8ef24c18-62d9-401a-90d9-fc6ec484f75e.jpg"
     },
     {
-      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-3\\1f36fa1f-7f9a-4b4f-84d2-eafbf69a6220.jpg",
+      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\Product-2\\966b3e32-09c1-48eb-9fdd-19a2fbabd7f8.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/products/product-3/1f36fa1f-7f9a-4b4f-84d2-eafbf69a6220.jpg",
+      "RelativePath": "images/products/Product-2/966b3e32-09c1-48eb-9fdd-19a2fbabd7f8.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1724,15 +1724,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-3\\1f36fa1f-7f9a-4b4f-84d2-eafbf69a6220.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Product-2\\966b3e32-09c1-48eb-9fdd-19a2fbabd7f8.jpg"
     },
     {
-      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-3\\748b27d9-9802-42f6-adab-8df55aaf4342.jpg",
+      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\Product-2\\e335b785-f61c-4adc-a3c8-aa606f84e6e5.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/products/product-3/748b27d9-9802-42f6-adab-8df55aaf4342.jpg",
+      "RelativePath": "images/products/Product-2/e335b785-f61c-4adc-a3c8-aa606f84e6e5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1743,15 +1743,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-3\\748b27d9-9802-42f6-adab-8df55aaf4342.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Product-2\\e335b785-f61c-4adc-a3c8-aa606f84e6e5.jpg"
     },
     {
-      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-4\\6b702e26-aa2b-47b1-bab3-f885486939e3.jpg",
+      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\Product-3\\d79d7512-06a6-4f5b-aab9-f8612785b483.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/products/product-4/6b702e26-aa2b-47b1-bab3-f885486939e3.jpg",
+      "RelativePath": "images/products/Product-3/d79d7512-06a6-4f5b-aab9-f8612785b483.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1762,15 +1762,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-4\\6b702e26-aa2b-47b1-bab3-f885486939e3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Product-3\\d79d7512-06a6-4f5b-aab9-f8612785b483.jpg"
     },
     {
-      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-4\\8be61614-113a-4dd5-a2ff-d1eb70e16f0b.jpg",
+      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\Product-3\\fb1f50e7-4b7f-4809-948a-1e78ef23a6db.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/products/product-4/8be61614-113a-4dd5-a2ff-d1eb70e16f0b.jpg",
+      "RelativePath": "images/products/Product-3/fb1f50e7-4b7f-4809-948a-1e78ef23a6db.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1781,15 +1781,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-4\\8be61614-113a-4dd5-a2ff-d1eb70e16f0b.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Product-3\\fb1f50e7-4b7f-4809-948a-1e78ef23a6db.jpg"
     },
     {
-      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-5\\1cbca164-761a-4c55-9459-82d6f2c9e0c1.jpg",
+      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\Product-4\\db8d0dbf-af90-4c72-905b-ac22cd63d113.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/products/product-5/1cbca164-761a-4c55-9459-82d6f2c9e0c1.jpg",
+      "RelativePath": "images/products/Product-4/db8d0dbf-af90-4c72-905b-ac22cd63d113.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1800,15 +1800,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-5\\1cbca164-761a-4c55-9459-82d6f2c9e0c1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Product-4\\db8d0dbf-af90-4c72-905b-ac22cd63d113.jpg"
     },
     {
-      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-5\\7f0d6e2a-1a34-4c44-9596-0893338718bf.jpg",
+      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\Product-4\\e00044e8-e829-4bc0-b668-40edd20f490b.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/products/product-5/7f0d6e2a-1a34-4c44-9596-0893338718bf.jpg",
+      "RelativePath": "images/products/Product-4/e00044e8-e829-4bc0-b668-40edd20f490b.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1819,15 +1819,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-5\\7f0d6e2a-1a34-4c44-9596-0893338718bf.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Product-4\\e00044e8-e829-4bc0-b668-40edd20f490b.jpg"
     },
     {
-      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-6\\3772c79c-f3dd-4f33-ba5a-e4bb6e198375.jpg",
+      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\Product-5\\bf9cf3f9-00d6-425a-adf5-7b63a8420835.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/products/product-6/3772c79c-f3dd-4f33-ba5a-e4bb6e198375.jpg",
+      "RelativePath": "images/products/Product-5/bf9cf3f9-00d6-425a-adf5-7b63a8420835.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1838,15 +1838,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-6\\3772c79c-f3dd-4f33-ba5a-e4bb6e198375.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Product-5\\bf9cf3f9-00d6-425a-adf5-7b63a8420835.jpg"
     },
     {
-      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\product-6\\52814dff-4844-44a5-8e73-95b0e9c22c50.jpg",
+      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\Product-5\\ca1820e3-3780-43f2-9739-700106e2546e.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/products/product-6/52814dff-4844-44a5-8e73-95b0e9c22c50.jpg",
+      "RelativePath": "images/products/Product-5/ca1820e3-3780-43f2-9739-700106e2546e.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1857,7 +1857,45 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-6\\52814dff-4844-44a5-8e73-95b0e9c22c50.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Product-5\\ca1820e3-3780-43f2-9739-700106e2546e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\Product-6\\18772ebe-1502-4adf-81a1-8275a77a9dbd.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/products/Product-6/18772ebe-1502-4adf-81a1-8275a77a9dbd.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\Product-6\\18772ebe-1502-4adf-81a1-8275a77a9dbd.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\images\\products\\Product-6\\54957786-efc6-4fc1-83cd-941ec57489a8.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/products/Product-6/54957786-efc6-4fc1-83cd-941ec57489a8.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\Product-6\\54957786-efc6-4fc1-83cd-941ec57489a8.jpg"
     },
     {
       "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\js\\Company.js",
@@ -1934,6 +1972,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\js\\users.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "js/users.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\users.js"
     },
     {
       "Identity": "C:\\Users\\awabm\\OneDrive\\Desktop\\WebApplication1\\Bulky_MVC\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

@@ -1,5 +1,6 @@
 using Bulky.DataAccess.Repository.IRepository;
 using Bulky.Models;
+using Bulky.Utility;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -21,7 +22,8 @@ namespace WebApplication1.Areas.Customer.Controllers
 
         public IActionResult Index()
         {
-            IEnumerable<Product> productsList = _unitOfWork.Product.GetAll(includeProperties: "Category").ToList();
+            
+            IEnumerable<Product> productsList = _unitOfWork.Product.GetAll(includeProperties: "Category,ProductImages").ToList();
             return View(productsList);
         }
 
@@ -33,7 +35,7 @@ namespace WebApplication1.Areas.Customer.Controllers
         {
             ShoppingCart shoppingCart = new() { 
             count = 1,
-            Product = _unitOfWork.Product.GetFirstOrDefault(x => x.Id == id, includeProperties: "Category"),
+            Product = _unitOfWork.Product.GetFirstOrDefault(x => x.Id == id, includeProperties: "Category,ProductImages"),
             ProductId = id
             };
             return View(shoppingCart);
@@ -52,11 +54,15 @@ namespace WebApplication1.Areas.Customer.Controllers
             if (cartFromDb != null)
             {
                 cartFromDb.count += shoppingCart.count;
-            _unitOfWork.ShoppingCart.update(cartFromDb);
+                _unitOfWork.ShoppingCart.update(cartFromDb);
+                _unitOfWork.Save();
             }
             else
             {
-            _unitOfWork.ShoppingCart.Add(shoppingCart);
+                _unitOfWork.ShoppingCart.Add(shoppingCart);
+                _unitOfWork.Save();
+                int cartSize = _unitOfWork.ShoppingCart.GetAll(cart => cart.UserId == userId).Count();
+                HttpContext.Session.SetInt32(SD.SessionCart, cartSize);
             }
             _unitOfWork.Save();
             TempData["success"] = "Added to cart";

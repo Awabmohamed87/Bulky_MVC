@@ -540,3 +540,6 @@ C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\De
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Bulky.Utility.dll
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Bulky.Utility.pdb
 C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Stripe.net.dll
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\SendGrid.dll
+C:\Users\awabm\OneDrive\Desktop\WebApplication1\Bulky_MVC\WebApplication1\bin\Debug\net8.0\StarkbankEcdsa.dll

@@ -1,0 +1,74 @@
+﻿@model UserVM
+
+<div class="card shadow border-0 my-4 pb-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Manage User Role</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <form method="post" class="row" >
+            <input asp-for="User.Id" hidden />
+            <div class="row">
+                <div class="border p-3 ">
+                    <div class="row pb-2">
+                    </div>
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="User.Name"  readonly class="form-control border-0 shadow" />
+                            <label asp-for="User.Name" class="ms-2"></label>
+                        </div>
+
+                    <div class="form-floating py-2 col-12">
+                        <select asp-for="User.Role" asp-items="@Model.Roles" id="Input_Role" class="form-select border-0 shadow">
+                            
+                        </select>
+                    </div>
+                    @{
+                        var companyVisible = "display:none;";
+                    }
+                    @if (Model.User.Company != null)
+                    {
+                        companyVisible = "display:block;";
+                    }
+
+                    <div class="form-floating py-2 col-12">
+                        <select asp-for="User.Company.Id" style="@companyVisible" asp-items="@Model.Companies" class="form-select border-0 shadow">
+                                
+                        </select>
+                    </div>
+                    <div class="row">
+                        <div class="col-6 col-md-3">
+                            <button type="submit" class="btn btn-primary form-control">Update</button>
+                        </div>
+                        <div class="col-6 col-md-3">
+                            <a class="btn btn-outline-primary border form-control" asp-controller="User" asp-action="Index">Back</a>
+                        </div>
+                    </div>
+                </div>
+
+        </form>
+    </div>
+
+</div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        $(document).ready(function () {
+            $('#Input_Role').change(function () {
+                var selected = $('#Input_Role Option:Selected').text();
+                if (selected == 'Company') {
+
+                    $('#User_Company_Id').show();
+                }
+                else {
+                    $('#User_Company_Id').hide();
+                }
+            })
+        })
+    </script>
+}
+

@@ -3,6 +3,7 @@ using Bulky.Models;
 using Bulky.Models.ViewModels;
 using Bulky.Utility;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Stripe.Checkout;
 using System.Security.Claims;
@@ -31,6 +32,13 @@ namespace WebApplication1.Areas.Customer.Controllers
 
             };
             shoppingCartVM.OrderHeader. OrderTotal = getTotal(shoppingCartVM);
+
+            var ProductImages = _unitOfWork.ProductImage.GetAll();
+            foreach (var cart in shoppingCartVM.ShoppingCartList) 
+            {
+                cart.Product.ProductImages = ProductImages.Where(image => image.ProductId == cart.Product.Id).ToList();
+            }
+
             return View(shoppingCartVM);
         }
         public IActionResult Summary()
@@ -132,6 +140,7 @@ namespace WebApplication1.Areas.Customer.Controllers
                 Response.Headers.Add("Location",sessionResponse.Url);
                 return new StatusCodeResult(303);
 			}
+            
 			return RedirectToAction(nameof(OrderConfirmation), new { id =  shoppingCartVM.OrderHeader.id});
 		}
         public IActionResult OrderConfirmation(int id)
@@ -148,6 +157,7 @@ namespace WebApplication1.Areas.Customer.Controllers
                     _unitOfWork.OrderHeader.UpdateStatus(id,SD.StatusApproved,SD.PaymentStatusApproved);
                     _unitOfWork.Save();
 				}
+                HttpContext.Session.SetInt32(SD.SessionCart, 0);
             }
             _unitOfWork.ShoppingCart.RemoveRange(_unitOfWork.ShoppingCart.GetAll(cart=>cart.UserId == order.UserId).ToList());
                     _unitOfWork.Save();
@@ -164,10 +174,14 @@ namespace WebApplication1.Areas.Customer.Controllers
         }
         public IActionResult Minus(int id)
         {
-            ShoppingCart cartToUpdate = _unitOfWork.ShoppingCart.GetFirstOrDefault(item => item.Id == id);
+            ShoppingCart cartToUpdate = _unitOfWork.ShoppingCart.GetFirstOrDefault(item => item.Id == id, isTracked: true);
             cartToUpdate.count--;
             if(cartToUpdate.count == 0)
+            {  
+                int cartLength = _unitOfWork.ShoppingCart.GetAll(cart => cart.UserId == cartToUpdate.UserId).Count() - 1;
+                HttpContext.Session.SetInt32(SD.SessionCart, cartLength);
                 _unitOfWork.ShoppingCart.Remove(cartToUpdate);
+            }
             else
                 _unitOfWork.ShoppingCart.update(cartToUpdate);
 
@@ -177,9 +191,13 @@ namespace WebApplication1.Areas.Customer.Controllers
         }
         public IActionResult Delete(int id)
         {
-            ShoppingCart cartToUpdate = _unitOfWork.ShoppingCart.GetFirstOrDefault(item => item.Id == id);
+            ShoppingCart cartToUpdate = _unitOfWork.ShoppingCart.GetFirstOrDefault(item => item.Id == id, isTracked:true);
+            int cartLength = _unitOfWork.ShoppingCart.GetAll(cart => cart.UserId == cartToUpdate.UserId).Count() - 1;
+            HttpContext.Session.SetInt32(SD.SessionCart, cartLength);
             _unitOfWork.ShoppingCart.Remove(cartToUpdate);
             _unitOfWork.Save();
+
+           
 
             return RedirectToAction(nameof(Index));
         }
